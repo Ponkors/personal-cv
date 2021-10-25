@@ -58,7 +58,8 @@ var day = 0;
 ---
 ### Education:
 + HTML course on the SoloLearn - Complete.
-![Certificate:](https://docviewer.yandex.com/view/362940741/?*=jvbVJ8BcWji6%2BX0uCnF1yIbQLFl7InVybCI6InlhLWRpc2stcHVibGljOi8vZDJTUnMxaCtrZ1h0ZldyaWVYWStrTnpwTFp5US9ta2gwSEo4NmdoZnE4eU9xSjdjYWhTV0JvVGlYU2EzSnlzUnEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiY2VydC0xMDE0LTk1ODEwNTIucGRmIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIzNjI5NDA3NDEiLCJ0cyI6MTYzNTE2NzM0Mzk4MCwieXUiOiI0MzgzMTQ0NjIxNjMxNjQwODEzIn0%3D)
+![Certificate:](https://disk.yandex.com/i/-ArQFtC2GylGtQ)
+
 + **[HTML Academy.](https://htmlacademy.ru/)**
 + CSS, JavaScript course on the **[Sololearn](https://www.sololearn.com/profile/9581052)** (pause)
 + JavaScript Manual on **[learnjavascript.ru](https://learn.javascript.ru/)** (pause)
