@@ -15,7 +15,7 @@ ___
 ---
 
 ### Briefly About Myself:
-Hi, **my name is *Vlad***. Now I am a second year student at the *Faculty of Physics and Mathematics* in the Brest State A. S. Pushkin University. **My goal** is to create products that can understand humans an intuitive level and be understandable to users. Maybe I'm a madman. Confident that I can change the world. Motivated by the story of *Steve Jobs* and *Pavel Durov*.
+Hi, **my name is *Vlad***. Now I am a second year student at the *Faculty of Physics and Mathematics* in the Brest State A. S. Pushkin University. I study physics and computer science. **My goal** is to create products that can understand humans an intuitive level and be understandable to users. Maybe I'm a madman. Confident that I can change the world. Motivated by the story of *Steve Jobs* and *Pavel Durov*.
 > The ones who are crazy enough to think they can change the world are the ones who do. - *Steve Jobs.*
 
 ##### I will be glad to cooperate with your company ;)
