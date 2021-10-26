@@ -58,7 +58,7 @@ var day = 0;
 ---
 ### Education:
 + HTML course on the SoloLearn - Complete.
-![Certificate:](https://vk.com/doc156119426_617850883?hash=47f945a4f4deb336d9&dl=1dbbf7914efb3c7e5f)
+![Certificate:](https://mega.nz/file/KXRzEYRT#uezyoaI0ZTB4PXFAgyDcNt9hItnIgvA7RUSE6hovdFI)
 
 + **[HTML Academy.](https://htmlacademy.ru/)**
 + CSS, JavaScript course on the **[Sololearn](https://www.sololearn.com/profile/9581052)** (pause)
