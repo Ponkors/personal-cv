@@ -22,13 +22,15 @@ Hi, **my name is *Vlad***. Now I am a second year student at the *Faculty of Phy
 ---
 ### Skills and Proficiency:
 
-+ HTML(HTML5), CSS (Beginner)
-+ JavaScript (Beginner)
-+ Git, GitHub
-+ Brackets / Visual Studio Code
-+ Adobe Photoshop (Basic)
-+ Python (Basic)
-+ Swift (Beginner)
++ Computer sciense (cs50), also complete this course in epam training centre.
++ HTML(HTML5), CSS.
++ JavaScript (Beginner).
++ UX/UI (Figma).
++ Python (Basic).
++ Git (Console/Bash or GUI), GitHub.
++ Software Development Methodologies.
++ Brackets / Visual Studio Code, PyCharm (Python, Django), WebStorm(HTML, CSS, JS, a little server), Intellij IDEA (Java + Tests)
+
 
 ### Code Example: SoloLearn Task.
 *The snail climbs up 7 feet each day and slips back 2 feet each night.
@@ -65,8 +67,10 @@ var day = 0;
 + JavaScript Manual on **[learnjavascript.ru](https://learn.javascript.ru/)** (pause)
 + RS Schools Course «JavaScript/Front-End. Stage 0» (Complete 'Stage 0'.)
 + English course at **[Lingualeo](https://lingualeo.com/)** and **[Duolingo](https://www.duolingo.com/learn).** (in progress.)
-+ Pascal.ABC, Delphi(in progress) at the University.
++ Pascal.ABC, Delphi, C# at the University.
 + Python (Basic Skills) - Self-development.
++ Automated Testing Basics - Epam training centre.
++ Frontend Start, UX/UI Start - itlogia.ru
 
 ---
 
@@ -77,6 +81,7 @@ Interesting in Python Development, FrontEnd, BackEnd and create new products.
 ---
 
 ### Languages:
-+ English - Pre Intermediate. I have experience of communicating with native speakers from America. It was funny. I admit that at the beginning I encountered a language barrier, but we quickly found a common language and could communicate on secular topics. My profile on **[Duolingo](https://www.duolingo.com/profile/Ponkors)**. I am improving my English language skills.
++ English - Intermediate. I have experience of communicating with native speakers from America. It was funny. I admit that at the beginning I encountered a language barrier, but we quickly found a common language and could communicate on secular topics. My profile on **[Duolingo](https://www.duolingo.com/profile/Ponkors)**. I am improving my English language skills.
 + Russian - Native
 + Belarusian - Native
++ Polish - A1 (in progress)
